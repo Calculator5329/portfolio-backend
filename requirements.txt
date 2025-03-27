@@ -1,8 +1,5 @@
 yfinance
 pandas
-time
-os
 requests
 matplotlib
-datetime
 numpy
